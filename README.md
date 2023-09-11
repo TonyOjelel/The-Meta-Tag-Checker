@@ -1,6 +1,6 @@
 # The Meta Tag Checker.
 
-A customisable validator for web page [meta tags](http://en.wikipedia.org/wiki/Meta_element), including [Facebook open graph tags](http://ogp.me) and [Twitter card tags](https://dev.twitter.com/cards/getting-started). Having correct meta tags can improve SEO and clickthroughs on social networks.
+A customisable validator for web page [meta tags](http://en.wikipedia.org/wiki/Meta_element), including [Facebook open graph tags](http://ogp.me) and [Twitter card tags](https://dev.twitter.com/cards/getting-started). 
 
 **[Live demo here](https://the-meta-tag-checker.herokuapp.com/)
 
