@@ -1,0 +1,11 @@
+{
+  "name": "the-meta-tag-checker",
+  "version": "1.0.0",
+  "description": "A customisable validator for web page [meta tags](http://en.wikipedia.org/wiki/Meta_element), including [Facebook open graph tags](http://ogp.me) and [Twitter card tags](https://dev.twitter.com/cards/getting-started). Having correct meta tags can improve SEO and clickthroughs on social networks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tony Ojelel",
+  "license": "ISC"
+}
